@@ -16,12 +16,10 @@ I thrive in team environments, leveraging my strong collaboration skills and pas
 
 ![](https://readme-git-main-mohammadrezaataeiis-projects.vercel.app/api?username=mohammadrezaataeii&theme=dark&hide_border=false&include_all_commits=true&show_icons=true)<br/>
 
-![](https://github-readme-streak-stats-ofofm3il9.vercel.app/?user=mohammadrezaataeii&hide_border=false&theme=dark)
 
 
 # 📊 Most Used Languages
-
-![Top Langs](https://readme-git-main-mohammadrezaataeiis-projects.vercel.app/api/top-langs/?username=mohammadrezaataeii&hide_progress=true&theme=dark&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezaataeii&theme=dark&layout=compact)
 
 
 ## 🏆 GitHub Trophies
